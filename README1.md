@@ -1,5 +1,3 @@
-# interaction_network_molecc
-
 # A. Seleção de frames
 01. Com os arquivos 'prd.tpr' e 'prd.xtc', executar o seguinte comando para coletar os frames para selecionar os mais representativos:
 
